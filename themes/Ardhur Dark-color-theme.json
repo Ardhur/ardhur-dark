@@ -736,7 +736,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#f1fa8c"
+				"foreground": "#ff86d3"
 			}
 		},
 		{
@@ -778,7 +778,7 @@
 			"name": "Tags",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#ff7070"
+				"foreground": "#c197fd"
 			}
 		},
 		{
